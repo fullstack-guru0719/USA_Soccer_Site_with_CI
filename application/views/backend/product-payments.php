@@ -1,0 +1,1 @@
+<?php if ($user[0]['user_group'] != 1) { return redirect('backend'); } else { ?><?php } ?>
